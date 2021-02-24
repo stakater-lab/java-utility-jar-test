@@ -14,4 +14,4 @@
   mvn -B deploy:deploy-file -s settings.xml -Durl=<nexus-snapshot-url>   -DpomFile=pom.xml -Dfile=target/utility-jar-test-1.0-SNAPSHOT.jar  -DrepositoryId=nexus 
   ```
  
-Replace <nexus-snaphot-url> with appropirate value
+Replace   `nexus-snaphot-url` with appropirate value
