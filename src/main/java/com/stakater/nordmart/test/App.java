@@ -1,4 +1,4 @@
-package se.enento.blaise.test;
+package com.stakater.nordmart.test;
 
 /**
  * Hello world!

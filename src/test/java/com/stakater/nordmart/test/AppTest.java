@@ -1,4 +1,4 @@
-package se.enento.blaise.test;
+package com.stakater.nordmart.test;
 
 import static org.junit.Assert.assertTrue;
 
