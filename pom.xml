@@ -26,18 +26,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <!-- <distributionManagement>
-    <repository>
-      <id>nexus</id>
-      <name>Maven Repository</name>
-      <url>https://nexus-repository-openshift-stakater-nexus.apps.pilot.l84u0fhj.kubeapp.cloud/repository/maven-snapshots/</url>
-    </repository>
-    <snapshotRepository>
-      <id>nexus</id>
-      <name>Maven Snapshot Repository</name>
-      <url>https://nexus-repository-openshift-stakater-nexus.apps.pilot.l84u0fhj.kubeapp.cloud/repository/maven-releases/</url>
-    </snapshotRepository>
-  </distributionManagement> -->
+
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
